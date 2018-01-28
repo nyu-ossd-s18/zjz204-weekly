@@ -1,12 +1,12 @@
 ---
-layout: page
-title: About
+layout: page  
+title: About  
 permalink: /about/
 ---
 
-Some information about you!
+I'm Jason
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I think The Magicians is an underrated show. Please watch it.  
 
