@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm Jason
+Hello, I'm Jason. I'm a senior majoring in CS.
 
 ### More Information
 
