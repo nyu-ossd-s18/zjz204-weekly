@@ -9,7 +9,7 @@ permalink: /contributions/
 
 | Week # | Contribution | Contribution Type |
 |--------|---------------------------------------------------------------------------------------|-------------------------------------|
-| 03 | [Article Edit] (https://en.wikipedia.org/wiki/Special:Contributions/64_oz_wine_glass) | Wikipedia - Metamucil |
+| 03 | [Article Edit](https://en.wikipedia.org/wiki/Special:Contributions/64_oz_wine_glass) | Wikipedia - Metamucil |
 | 03 | [Issue Reported #28](https://github.com/joannakl/cs480_s18/issues/28) | Course Website |
 | 03 | [Commented Issue #22](https://github.com/joannakl/cs480_s18/issues/22) | Course Website |
 | 03 | [Commented Issue #19](https://github.com/joannakl/cs480_s18/issues/19) | Course Website |
