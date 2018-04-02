@@ -1,6 +1,7 @@
 ---
 layout: page  
 title: Contributions  
+permalink: /contributions/
 ---
 
 ### List of Contributions I've made:  
