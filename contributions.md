@@ -20,4 +20,7 @@ permalink: /contributions/
 | 09 | [Pull Request #101](https://github.com/joannakl/cs480_s18/pull/101) | Course Website |
 | 10 | [Commented Moment Issue #4532](https://github.com/moment/moment/issues/4532) | Other 
 | 10 | [Commented Moment Issue #4323](https://github.com/moment/moment/issues/4323) | Other  
-| 10 | [Issue Reported #111](https://github.com/joannakl/cs480_s18/issues/111) | Course Website
+| 10 | [Issue Reported #111](https://github.com/joannakl/cs480_s18/issues/111) | Course Website  
+| 11 | [Commented Issue #112](https://github.com/joannakl/cs480_s18/issues/112) | Course Website  
+| 11 | [Article Edit](https://en.wikipedia.org/wiki/Special:Contributions/64_oz_wine_glass) | Wikipedia - Al Majma'ah  
+| 11 | [Article Edit](https://en.wikipedia.org/wiki/Special:Contributions/64_oz_wine_glass) | Wikipedia - Castor Hanglands National Nature Reserve  
