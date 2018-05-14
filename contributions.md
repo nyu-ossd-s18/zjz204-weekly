@@ -25,3 +25,7 @@ permalink: /contributions/
 | 11 | [Article Edit](https://en.wikipedia.org/wiki/Special:Contributions/64_oz_wine_glass) | Wikipedia - Al Majma'ah  
 | 11 | [Article Edit](https://en.wikipedia.org/wiki/Special:Contributions/64_oz_wine_glass) | Wikipedia - Castor Hanglands National Nature Reserve  
 | 12 | [Wikimedia Commons Description Edit](https://commons.wikimedia.org/wiki/Special:Contributions/64_oz_wine_glass) | Other
+| 15 | [OpenStreetMap contribution: Store Name Change](https://www.openstreetmap.org/changeset/58937173#map=19/40.73022/-73.98318&layers=N) | Other  
+| 15 | [OpenStreetMap contribution: Added cafe](https://www.openstreetmap.org/changeset/58937111) | Other 
+| 15 | [OpenStreetMap contribution: Added McDonalds](https://www.openstreetmap.org/changeset/58937098) | Other  
+| 15 | [OpenStreetMap contribution: Added High School for Dual Language and Asian Studies](https://www.openstreetmap.org/changeset/58937038) | Other  
